@@ -1,0 +1,21 @@
+{
+  "name": "desafio_teste_sudoku",
+  "version": "1.0.0",
+  "description": "Casos de teste em JavaScript para Sudoku binário 6x6 (Takuzu/Binairo) — disciplina Projeto, Implementação e Teste de Software 2026",
+  "main": "src/sudokuBinario.js",
+  "scripts": {
+    "test": "jest --colors"
+  },
+  "keywords": [
+    "sudoku-binario",
+    "takuzu",
+    "binairo",
+    "jest",
+    "teste-de-software"
+  ],
+  "author": "Rodrigo A. Del Padre Filho",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
